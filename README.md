@@ -5,7 +5,7 @@
 
 ###  👨🏻‍💻 About Me 
 
-![me](./images/me.png)
+![me](https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/me.png)
  
 I am building a solid foundation in both frontend and backend technologies and languages.  
 
@@ -13,7 +13,7 @@ I am building a solid foundation in both frontend and backend technologies and l
 
 ### 🌐 Knowing / Using
 
-|[<img src="/images/java.png" width="24" >](https://jdk.java.net/11/)|[<img width=24 alt="SQL" src="https://img.icons8.com/ios-filled/2x/sql.png"> ]()|[<img width=24 alt="bash" src="https://img.icons8.com/bubbles/2x/console.png">]()| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |many more...|
+|[<img src="https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/java.png" width="24" >](https://jdk.java.net/11/)|[<img width=24 alt="SQL" src="https://img.icons8.com/ios-filled/2x/sql.png"> ]()|[<img width=24 alt="bash" src="https://img.icons8.com/bubbles/2x/console.png">]()| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |many more...|
 |---|---|---|---|---|---|---|---|
 
 ### Learning

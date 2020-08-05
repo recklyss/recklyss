@@ -1,15 +1,17 @@
 ### Hi there 👋 I'm Fatezhang, a developer from Xi'an, China.
 
 - 😄 Pronouns: He/him
-- 🐳 Fun facts: 
+- 🐳 Motto: When the world turns its back on you, you turn your back on the world! And only embrace what's next! 
 
 ###  👨🏻‍💻 About Me 
 
-![me](https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/me.png)
+[![me](https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/me.png)](https://zhangjiaheng.cn)
  
-I am building a solid foundation in both frontend and backend technologies and languages.  
-
-
+I am building a solid foundation in both frontend and backend technologies and languages. So more than Java, currently I'm learning JavaScript, TypeScript and other DevOps skills.
+ 
+Geek spirit! Make things complex but fun.
+  
+Now working in ThoughtWorks as a software consultant, if you are interest in me, [call out](mailto:zhangjiaheng@poping@gmail.com)! 
 
 ### 🌐 Knowing / Using
 
@@ -28,5 +30,5 @@ I am building a solid foundation in both frontend and backend technologies and l
 
 |||
 | ------------------------------------------------------------ | ---- |
-| [<img src="https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/wechat.png">](#wechat) | emhhbmdqaWFoZW5n  |
+| [<img width=30 src="https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/wechat.png">](#wechat) | emhhbmdqaWFoZW5n  |
 

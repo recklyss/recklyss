@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Fatezhang, a developer from Xi'an, China.
 
 - 😄 Pronouns: He/him
-- 
+- 🐳 Fun facts: 
 
 ###  👨🏻‍💻 About Me 
 
@@ -25,3 +25,8 @@ I am building a solid foundation in both frontend and backend technologies and l
 [![Jiaheng's github status](https://github-readme-stats.vercel.app/api?username=Fatezhang&show_icons=true)](https://github.com/Fatezhang)
 
 ### Contract me
+
+|||
+| ------------------------------------------------------------ | ---- |
+| [<img src="https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/wechat.png">](#wechat) | emhhbmdqaWFoZW5n  |
+

@@ -24,7 +24,22 @@ Now working in ThoughtWorks as a software consultant, if you are interest in me,
 |---|---|---|
 ---
 
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+### 🧩 Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 [![Jiaheng's github status](https://github-readme-stats.vercel.app/api?username=Fatezhang&show_icons=true)](https://github.com/Fatezhang)
+
+[![Jiaheng's github status](https://github-readme-stats.vercel.app/api/top-langs?username=Fatezhang&show_icons=true)](https://github.com/Fatezhang)
 
 ### Contract me
 

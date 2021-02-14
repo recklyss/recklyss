@@ -51,3 +51,5 @@ Now working in ThoughtWorks as a software consultant, if you are interest in me,
 | ------------------------------------------------------------ | ---- |
 | [<img width=30 src="https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/wechat.png">](#wechat) | emhhbmdqaWFoZW5n  |
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D83N63X)
+

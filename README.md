@@ -41,6 +41,8 @@ Now working in ThoughtWorks as a software consultant, if you are interest in me,
 
 <!--END_SECTION:activity-->
 
+### ⚡️ My Status
+
 [![Jiaheng's github status](https://github-readme-stats.vercel.app/api?username=Fatezhang&show_icons=true)](https://github.com/Fatezhang)
 
 [![Jiaheng's github status](https://github-readme-stats.vercel.app/api/top-langs?username=Fatezhang&show_icons=true)](https://github.com/Fatezhang)
@@ -49,7 +51,8 @@ Now working in ThoughtWorks as a software consultant, if you are interest in me,
 
 |||
 | ------------------------------------------------------------ | ---- |
-| [<img width=30 src="https://raw.githubusercontent.com/Fatezhang/Fatezhang/master/images/wechat.png">](#wechat) | emhhbmdqaWFoZW5n  |
+| ![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) | emhhbmdqaWFoZW5n  |
+|[![INS](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zhangjiaheng1874/)||
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D83N63X)
 

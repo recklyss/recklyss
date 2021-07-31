@@ -28,11 +28,11 @@ Now working in ThoughtWorks as a software consultant, if you are interest in me,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [我的无奈的来源，正是他](http://zhangjiaheng.cn/blog/20210726/%E6%88%91%E7%9A%84%E6%97%A0%E5%A5%88%E7%9A%84%E6%9D%A5%E6%BA%90%EF%BC%8C%E6%AD%A3%E6%98%AF%E4%BB%96/)
+- [写博客有什么用？](http://zhangjiaheng.cn/blog/20210721/%E5%86%99%E5%8D%9A%E5%AE%A2%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%EF%BC%9F/)
+- [为什么并不是所有人都有自由意志？](http://zhangjiaheng.cn/blog/20210620/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E6%9C%89%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%EF%BC%9F/)
 - [由 SpringBoot 升级到 2.4.2 引发的 Jackson 的 JsonFormat 问题排查](http://zhangjiaheng.cn/blog/20210120/spring-boot-to-2-4-2/)
 - [使用 UPic & GitHub 做个自己的图床](http://zhangjiaheng.cn/blog/20210113/%E4%BD%BF%E7%94%A8-UPic-GitHub-%E5%81%9A%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E5%BA%8A/)
-- [使用Localstack 搭建 AWS 本地开发环境](http://zhangjiaheng.cn/blog/20201227/%E4%BD%BF%E7%94%A8localstack-%E6%90%AD%E5%BB%BA-AWS-%E6%9C%AC%E5%9C%B0%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/)
-- [让一切被中断的重新启动](http://zhangjiaheng.cn/blog/20200705/Make-everything-interrupted-reboot/)
-- [Java 并发编程的一些总结](http://zhangjiaheng.cn/blog/20200129/Java-%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%BB%E7%BB%93/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧩 Recent Activity

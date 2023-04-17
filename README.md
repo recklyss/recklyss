@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Fatezhang, a developer from Xi'an, China.
+### Hi there 👋 I'm Fatezhang, a developer who is working in Bangkok, Thailand.
 
 - 😄 Pronouns: He/him
-- 🐳 Motto: When the world turns its back on you, you turn your back on the world! And only embrace what's next! 
+- 🐳 Motto: A true master, is an eternal student!
 
 ###  👨🏻‍💻 About Me 
 
@@ -9,7 +9,7 @@
  
 I am building a solid foundation in both frontend and backend technologies and languages. So more than Java, currently I'm learning JavaScript, TypeScript and other DevOps skills.
  
-Geek spirit! Make things complex but fun.
+Geek spirit! Be obsessed with learning any new tech skills.
   
 Now working in ThoughtWorks as a software consultant, if you are interest in me, [call out](mailto:zhangjiaheng@poping@gmail.com)! 
 
@@ -28,11 +28,7 @@ Now working in ThoughtWorks as a software consultant, if you are interest in me,
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [编写自定义的 SpringBoot Starter 实现自动装配](http://zhangjiaheng.cn/blog/20210730/Create-your-custom-spring-boot-starter/)
-- [我的无奈的来源，正是他](http://zhangjiaheng.cn/blog/20210726/%E6%88%91%E7%9A%84%E6%97%A0%E5%A5%88%E7%9A%84%E6%9D%A5%E6%BA%90%EF%BC%8C%E6%AD%A3%E6%98%AF%E4%BB%96/)
-- [写博客有什么用？](http://zhangjiaheng.cn/blog/20210721/%E5%86%99%E5%8D%9A%E5%AE%A2%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8%EF%BC%9F/)
-- [为什么并不是所有人都有自由意志？](http://zhangjiaheng.cn/blog/20210620/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B6%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E4%BA%BA%E9%83%BD%E6%9C%89%E8%87%AA%E7%94%B1%E6%84%8F%E5%BF%97%EF%BC%9F/)
-- [由 SpringBoot 升级到 2.4.2 引发的 Jackson 的 JsonFormat 问题排查](http://zhangjiaheng.cn/blog/20210120/spring-boot-to-2-4-2/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ### 🧩 Recent Activity

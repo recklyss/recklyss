@@ -39,16 +39,19 @@ Now working in ThoughtWorks as a software consultant, if you are interest in me,
 
 ### ⚡️ My Status
 
-[![Jiaheng's github status](https://github-readme-stats.vercel.app/api?username=Fatezhang&show_icons=true)](https://github.com/Fatezhang)
-
-[![Jiaheng's github status](https://github-readme-stats.vercel.app/api/top-langs?username=Fatezhang&show_icons=true)](https://github.com/Fatezhang)
+<a href="https://github.com/recklyss/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=recklyss" />
+</a>
+<a href="https://github.com/recklyss/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=recklyss&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ### Contract me
 
 |||
 | ------------------------------------------------------------ | ---- |
 | ![wechat](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white) | emhhbmdqaWFoZW5n  |
-|[![INS](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reckless_zjh/)||
+| [![INS](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/reckless_zjh/) | reckless_zjh |
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D83N63X)
 

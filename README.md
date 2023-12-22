@@ -13,13 +13,12 @@ Geek spirit! Be obsessed with learning any new tech skills.
   
 Now working in ThoughtWorks as a software consultant, if you are interest in me, [call out](mailto:zhangjiaheng@poping@gmail.com)! 
 
-===============================================================================================================================
 
 Fullstack WEB developer
 -----------------------
 
 * 🌍  I'm based in Bangkok/China/Australia/Singapore
-* 🖥️  See my portfolio at [https://portfolio.zhangjiaheng.cn/](http://zhangjiaheng.cn)
+* 🖥️  See my portfolio at [https://portfolio.zhangjiaheng.cn/](http://portfolio.zhangjiaheng.cn)
 * ✉️  You can contact me at [mail@jiaheng.tech](mailto:mail@jiaheng.tech)
 * 🧠  I'm learning React, TS, AWS
 

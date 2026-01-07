@@ -9,9 +9,8 @@ As a software consultant at ThoughtWorks, I'm always open to new opportunities. 
 
 -----------------------
 
-* 🌍 I'm based in Bangkok right now and I'm open to relocate.
-* 📑 [My past blogs in Chinese](https://zhangjiaheng.cn).
-* 🖥️ See my portfolio at [https://portfolio.zhangjiaheng.cn/](http://portfolio.zhangjiaheng.cn)
+* 🌍 I'm based in Bangkok right now and I'm open to relocate
+* 📑 [My past blogs in Chinese](https://archived.recklesscoder.com/)
 * 🧠 I'm learning React, TS, AWS, and other DevOps skills.
 
 

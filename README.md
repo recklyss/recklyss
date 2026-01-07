@@ -4,7 +4,7 @@
 
 I'm expanding my skillset in both frontend and backend technologies, focusing on JavaScript, TypeScript, and DevOps skills beyond Java. Embracing the geek spirit, I'm passionate about learning new tech skills.
 
-As a software consultant at ThoughtWorks, I'm always open to new opportunities. If you're interested in collaborating, feel free to [reach out](mailto:zhangjiaheng@poping@gmail.com).
+As a software consultant at ThoughtWorks, I'm always open to new opportunities. If you're interested in collaborating, feel free to [reach out](mailto:zhangjiahengpoping@gmail.com).
 
 
 -----------------------
